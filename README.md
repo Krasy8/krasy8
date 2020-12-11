@@ -2,7 +2,7 @@
 
 My name is Konrad Krasowski and I'm a Java Developer with growing interest in front-end technologies. I'm in the process of switching my career to IT, while developing new skills through continues learning, engaging with the community of developers and building my projects.
 
-:mailbox: Reach me out!
+:mailbox: Don't hesitate to reach out to me!
 
 [![Linkedin Badge](https://img.shields.io/badge/-Konrad-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/konrad-krasowski/) [![Mail Badge](https://img.shields.io/badge/-krasy8-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:krasy8@gmail.com) [![Twitter Badge](https://img.shields.io/badge/-@krasy8-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Ipenywis)](https://twitter.com/krasy8)
 
