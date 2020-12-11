@@ -31,7 +31,7 @@ From the moment I have printed "Hello World" in my console, I knew I got the bug
 That little spark has started something, which very quickly has become my number one focus, worth re-organizing my whole life around. Leaving a successful career in banking was not an easy decision to make, but I like ambitious goals and know how to achieve them. I am convinced that this is the best way to grow as a person!
 </br>
 
-Apart from tech, I'm very passionate about travelling and healthy lifestyle. My biggest adventures was an 8-month solo backpacking trip around South East Asia and Australia and climbing Thorong La Pass, Nepal (5416m). I love cooking, especially when putting a healthy spin on my favourite cuisines - Italian and Asian.
+Apart from tech, I'm very passionate about travelling and fitness. I run, cycle, work out and cook healthy - when your body is taken care of, your brain follows suit 💪🏻 😎.
 
 #### Github Stats
 
