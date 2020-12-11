@@ -1,8 +1,6 @@
 ## Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-From the moment I have printed "Hello World" in my console, I knew I got the bug that would keep me hooked forever!
-That little spark has started something, which very quickly has become my number one focus, worth re-organizing my whole life around.
-Now I'm in the process of switching my career to IT, while developing new skills through continues learning, engaging with the community of developers and building my projects.
+My name is Konrad Krasowski and I'm a Java Developer with growing interest in front-end technologies. I'm in the process of switching my career to IT, while developing new skills through continues learning, engaging with the community of developers and building my projects.
 
 :mailbox: Reach me out!
 
@@ -18,6 +16,25 @@ Now I'm in the process of switching my career to IT, while developing new skills
 
 [![Java Badge](https://img.shields.io/badge/-Java-007396?style=for-the-badge&labelColor=white&logo=java&logoColor=007396)](#) [![Spring Badge](https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&labelColor=white&logo=spring&logoColor=6DB33F)](#) [![MySql Badge](https://img.shields.io/badge/-MySql-4479A1?style=for-the-badge&labelColor=white&logo=mysql&logoColor=4479A1)](#) [![Docker Badge](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&labelColor=white&logo=docker&logoColor=2496ED)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F7DF1E?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F7DF1E)](#) [![React Badge](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DAFB)](#)
 
-<!-- [<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />]
+#### Profile Visits 
 
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][htmltutorial] -->
+![visitors](https://visitor-badge.glitch.me/badge?page_id=krasy8.krasy8)
+
+<details>
+<summary>
+  More details about me
+</summary>
+
+<br >
+
+From the moment I have printed "Hello World" in my console, I knew I got the bug that would keep me hooked forever!
+That little spark has started something, which very quickly has become my number one focus, worth re-organizing my whole life around. Leaving a successful career in banking was not an easy decision to make, but I like ambitious goals and know how to achieve them. I am convinced that this is the best way to grow as a person!
+</br>
+
+Apart from tech, I'm very passionate about travelling and healthy lifestyle. My biggest adventures was an 8-month solo backpacking trip around South East Asia and Australia and climbing Thorong La Pass, Nepal (5416m). I love cooking, especially when putting a healthy spin on my favourite cuisines - Italian and Asian.
+
+#### Github Stats
+
+![Ipenywis's github stats](https://github-readme-stats.vercel.app/api?username=krasy8&count_private=true&theme=tokyonight&hide=contribs,prs)
+
+</details>
