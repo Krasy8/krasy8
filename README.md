@@ -14,10 +14,7 @@ Now I'm in the process of switching my career to IT, while developing new skills
 - 😄 Pronouns: Konrad Krasowski, krasy8.
 - ⚡  Fun fact: I love travelling - spent 8 months backpacking through South East Asia and Australia, climbed Thorong La Pass, Nepal (5416m).
 
-</br>
-
-### Technologies
-
+#### Technologies
 
 [![Java Badge](https://img.shields.io/badge/-Java-007396?style=for-the-badge&labelColor=white&logo=java&logoColor=007396)](#) [![Spring Badge](https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&labelColor=white&logo=spring&logoColor=6DB33F)](#) [![MySql Badge](https://img.shields.io/badge/-MySql-4479A1?style=for-the-badge&labelColor=white&logo=mysql&logoColor=4479A1)](#) [![Docker Badge](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&labelColor=white&logo=docker&logoColor=2496ED)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F7DF1E?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F7DF1E)](#) [![React Badge](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DAFB)](#)
 
