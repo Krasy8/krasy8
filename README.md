@@ -1,6 +1,6 @@
 ## Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-My name is Konrad Krasowski, a Java Developer with a growing interest in front-end technologies as well. I'm in the process of switching my career to IT while developing new skills through continues learning, engaging with the community of developers and building my projects.
+My name is **Konrad Krasowski**, a Java Developer with a growing interest in front-end technologies as well. I'm in the process of switching my career to IT while developing new skills through continues learning, engaging with the community of developers and building my projects.
 
 :mailbox: Don't hesitate to reach out to me!
 
